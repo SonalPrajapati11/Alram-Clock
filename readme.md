@@ -1,5 +1,5 @@
 # Alarmclock
-Test this alarm clock here :- https://ankitwebdev.github.io/alarmclock/
+Test this alarm clock here :- 
 
 Alarm Clock
 
@@ -28,7 +28,6 @@ CSS
 JavaScript
 
 Author
-This alarm clock was created by Ankit.
+This alarm clock was created by Sonal.
 
-License
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
