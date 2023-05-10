@@ -6,7 +6,9 @@ Alarm Clock
 This is a simple alarm clock built with JavaScript that runs on the web browser.
 
 Getting Started
-To use this alarm clock, simply open the index.html file in a web browser. You can also customize the alarm time and sound by modifying the app.js file.
+first i have create html files
+then i have create css files
+
 
 How to Use
 Set the alarm time by selecting the hour and minute from the dropdown menus.
