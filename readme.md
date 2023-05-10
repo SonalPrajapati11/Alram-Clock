@@ -1,5 +1,5 @@
 # Alarmclock
-Test this alarm clock here :- 
+Test this alarm clock here :- https://sonalprajapati11.github.io/Alram-Clock/
 
 Alarm Clock
 
@@ -22,7 +22,7 @@ To change the default alarm time, edit the defaultAlarm variable and set the hou
 
 To add or remove alarm sounds, modify the alarmSounds array and add or remove sound file paths.
 
-Technologies Used
+
 This alarm clock was built using the following technologies:
 
 HTML
@@ -31,5 +31,9 @@ JavaScript
 
 Author
 This alarm clock was created by Sonal.
+
+
+My clock View ![alram](https://github.com/SonalPrajapati11/Alram-Clock/assets/128243235/4bce5cd5-ac47-490a-be41-9e6174b263e9)
+
 
 
