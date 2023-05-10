@@ -6,7 +6,7 @@ setAlarmBtn = document.querySelector("button");
 
 // Initializing variables
 let alarmTime, isAlarmSet,
-ringtone = new Audio("./files/ringtone.mp3");
+ringtone = new Audio("ringtone.mp3");
 
 // Populating the hour select dropdown with options
 for (let i = 12; i > 0; i--) {
