@@ -21,7 +21,7 @@ body, .wrapper, .content{
 body{
   padding: 0 10px;
   min-height: 100vh;
-  background: #4A98F7;
+  background: black;
 }
 
 /* Set width, padding, background, border radius, and box shadow for the container */
