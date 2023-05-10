@@ -5,9 +5,11 @@ Alarm Clock
 
 This is a simple alarm clock built with JavaScript that runs on the web browser.
 
-Getting Started
-first i have create html files
-then i have create css files
+Introducing project of Alarm clock for eary morning vibes with ease of timer setting.
+It includes HTML, CSS, Javascript.
+
+
+
 
 
 How to Use
