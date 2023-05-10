@@ -1,0 +1,53 @@
+<!-- This is an HTML document -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Define the character encoding for the document -->
+    <meta charset="utf-8">
+    <!-- Set the title of the page -->
+    <title>Alarm Clock in JavaScript</title>
+    <!-- Link to an external stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Set the viewport width to the device's width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <!-- Create a container div for the clock and alarm UI -->
+    <div class="wrapper">
+      <!-- Insert an SVG image of a clock -->
+      <img src="./files/clock.svg" alt="clock">
+      <!-- Display the current time in 12-hour format -->
+      <h1>00:00:00 PM</h1>
+      <!-- Create a row of dropdown menus for selecting the alarm time -->
+      <div class="content">
+        <!-- Create a column for the hour dropdown -->
+        <div class="column">
+          <select>
+            <!-- Create a default disabled option -->
+            <option value="Hour" selected disabled hidden>Hour</option>
+          </select>
+        </div>
+        <!-- Create a column for the minute dropdown -->
+        <div class="column">
+          <select>
+            <!-- Create a default disabled option -->
+            <option value="Minute" selected disabled hidden>Minute</option>
+          </select>
+        </div>
+        <!-- Create a column for the AM/PM dropdown -->
+        <div class="column">
+          <select>
+            <!-- Create a default disabled option -->
+            <option value="AM/PM" selected disabled hidden>AM/PM</option>
+          </select>
+        </div>
+      </div>
+      <!-- Create a button for setting the alarm -->
+      <button>Set Alarm</button>
+    </div>
+
+    <!-- Link to an external JavaScript file -->
+    <script src="script.js"></script>
+
+  </body>
+</html>
