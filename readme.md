@@ -9,16 +9,12 @@ Introducing project of Alarm clock for eary morning vibes with ease of timer set
 It includes HTML, CSS, Javascript.
 
 
-
-
-
 How to Use
 Set the alarm time by selecting the hour and minute from the dropdown menus.
-Choose the alarm sound by selecting a sound from the dropdown menu.
 Click the "Set Alarm" button to set the alarm.
 The alarm will sound when the set time is reached.
 Customization
-You can customize the alarm time and sound by modifying the script.js file.
+You can customize the alarm time  by modifying the script.js file.
 
 To change the default alarm time, edit the defaultAlarm variable and set the hour and minute in the 24-hour format.
 
